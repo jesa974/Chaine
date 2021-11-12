@@ -2,7 +2,8 @@
 
 ![GitHub contributors](https://img.shields.io/github/contributors/jesa974/Chaine?color=green&style=flat-square)
 ![GitHub top language](https://img.shields.io/github/languages/top/jesa974/Chaine?color=orange&label=C&style=flat-square)
-![GitHub repo size](https://img.shields.io/github/repo-size/jesa974/Chaine?label=project%20size&style=flat-square&color=lightgrey)
+![GitHub repo size](https://img.shields.io/github/repo-size/jesa974/Chaine?label=Project%20size&style=flat-square&color=lightgrey)
+[![Visits Badge](https://badges.pufler.dev/visits/jesa974/Chaine)](https://badges.pufler.dev?style=for-the-badge)
 
 
 Chaine is a C library with about the same functions as 'string.h' with some additional features listed below. 
